@@ -25,7 +25,7 @@ It provides an elegant user interface to showcase services, car categories, and 
 ---
 
 ## Live Demo
-![BigToys Demo](./demo.gif)
+![BigToys Demo](Landing_Page/demo.gif)
 
 ---
 
